@@ -27,7 +27,7 @@ The challenge was to build the blog preview can and users will be able to hover 
 ### Screenshot
 
 ![](design/blog-desktop.png)
-![](design/blog-desktop.png)
+![](design/blog-mobile.png)
 
 
 ### Links
